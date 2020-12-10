@@ -1,0 +1,24 @@
+Menampilkan semua data
+// SELECT * FROM table 
+// Bentuk Array Assosiatif
+$this->result($query);
+
+Menampilkan data tertentu
+// SELECT * FROM table WHERE id=$id
+// Bentuk Array Assosiatif
+$this->row($query);
+
+Menambah data
+// INSERT INTO table VALUES data
+// INSERT INTO ... VALUES ('...','...');
+$this->insert($table,$data)
+
+Menghapus data
+// DELETE FROM table WHERE where=$data_where
+// DELETE FROM table WHERE id=id
+$this->delete($table,$where,$data_where)
+
+Mengubah data
+// UPDATE $table SET $update WHERE $where = $data_where
+// UPDATE `table` SET `...` = '...' WHERE ... = ...;
+$this->update($table,$update,$where,$data_where)

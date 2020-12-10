@@ -1,0 +1,10 @@
+1. Merapikan UI Pelanggan
+2. Menampilkan Tabel Barang dan Slider
+3. Membuat Tampilan Admin
+4. Input Barang dan Form Validation
+5. Melanjutkan Input Barang dan Tambah Upload
+6. Delete, Detail, Edit Barang
+7. Membuat Pembayaran, Kode Pembayaran dan Database invoice
+8. Menampilkan invoice
+9. Login dan Logout
+
