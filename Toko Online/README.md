@@ -1,6 +1,9 @@
 # TOKO ONLINE
-======
-## Fitur :
+Dibuat : Azhar Ozhi Saputra <br>
+Download File : (proses)<br>
+Bahasa Pemrograman : PHP NATIVE
+
+### Fitur :
 1. CRUD Data Barang
 2. CRUD Data Penjualan
 3. Login Logout Admin
