@@ -1,0 +1,19 @@
+1. Merapikan UI Admin
+2. CRUD Kelas
+3. CRUD Siswa
+4. Cari Data Siswa
+5. Setoran Awal dan Form Cari Siswa
+6. Menampilkan Tabungan dan Cek Data Siswa di Tabungan
+7. Tambah Setoran
+8. Merapikan Dashboard
+9. Penarikan Dana dan Cetak Print
+10. Fitur Login
+
+Fitur : 
+1. CRUD Kelas
+2. CRUD Siswa
+3. Cari Data Siswa
+4. Tambah Setoran + AJAX
+5. Penarikan Dana + AJAX
+6. Cek Saldo Siswa + AJAX
+7. Print
