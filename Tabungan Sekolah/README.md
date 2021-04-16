@@ -15,6 +15,6 @@ Dalam aplikasi ini untuk mengelola keuangan atau yang biasa diucapkan bernama "K
 6. Cek Saldo Siswa + AJAX
 7. Print
 
-#### Akses Login Admin Aplikasi Antrian Online
+#### Akses Login Admin
 User : admin<br>
 Pass : admin
