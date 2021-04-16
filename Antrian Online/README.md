@@ -1,6 +1,6 @@
 # Antrian Online
 Dibuat : Azhar Ozhi Saputra <br>
-Download File : (proses)<br>
+Download File : https://www.mediafire.com/file/q90nflwb62w71vg/antrian_online.zip/file <br>
 Bahasa Pemrograman : Laravel 5.8
 
 ### Deskripsi
