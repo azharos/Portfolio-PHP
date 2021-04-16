@@ -16,5 +16,5 @@ Mengingat Pandemi COVID-19 ini, Aplikasi Antrian Loket mempermudah para pengguna
 7. Export PDF
 
 #### Akses Login Admin Aplikasi Antrian Online
-User : admin
+User : admin <br>
 Pass : admin
