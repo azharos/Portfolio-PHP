@@ -15,6 +15,6 @@ Mengingat Pandemi COVID-19 ini, Aplikasi Antrian Loket mempermudah para pengguna
 6. Template Admin LTE
 7. Export PDF
 
-#### Akses Login Admin Aplikasi Antrian Online
+#### Akses Login Admin
 User : admin <br>
 Pass : admin
