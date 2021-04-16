@@ -1,6 +1,6 @@
 # Antrian Online
 Dibuat : Azhar Ozhi Saputra <br>
-Download File : (proses)<br>
+Download File : https://www.mediafire.com/file/q90nflwb62w71vg/antrian_online.zip/file <br>
 Bahasa Pemrograman : Laravel 5.8
 
 ### Deskripsi
@@ -16,5 +16,5 @@ Mengingat Pandemi COVID-19 ini, Aplikasi Antrian Loket mempermudah para pengguna
 7. Export PDF
 
 #### Akses Login Admin Aplikasi Antrian Online
-User : admin
+User : admin <br>
 Pass : admin
