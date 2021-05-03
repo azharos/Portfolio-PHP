@@ -18,5 +18,5 @@ Pada kesempatan ini saya membuat aplikasi "Penggajian". Aplikasi ini tentunya sa
 9. Export PDF
 
 #### Info Lebih Lanjut
-WA : https://api.whatsapp.com/send?phone=6285641532396
+WA : https://api.whatsapp.com/send?phone=6285641532396 <br>
 Telegram : 085641532396
