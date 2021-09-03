@@ -1,4 +1,4 @@
-# Penggajian
+# Absensi Online
 Dibuat : Azhar Ozhi Saputra <br>
 Download File : https://www.mediafire.com/file/ay60u1juqbj4fz5/absensiswa.zip/file <br>
 Bahasa Pemrograman : Laravel 8
