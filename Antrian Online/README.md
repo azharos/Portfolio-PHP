@@ -1,7 +1,7 @@
 # Antrian Online
 Dibuat : Azhar Ozhi Saputra <br>
 Download File : https://www.mediafire.com/file/q90nflwb62w71vg/antrian_online.zip/file <br>
-Bahasa Pemrograman : Laravel 5.8
+Bahasa Pemrograman : PHP (Laravel)
 
 ### Deskripsi
 Mengingat Pandemi COVID-19 ini, Aplikasi Antrian Loket mempermudah para pengguna mendapatkan nomor antrian secara online dan sangat efisien dalam hal waktu yang dapat mengurasi pengambilan nomor secara cepat-cepatan. Aplikasi ini sangat bermanfaat diterapkan di Rumah Sakit, Apotek, Universitas atau bidang lainnya.
