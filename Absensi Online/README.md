@@ -10,7 +10,8 @@ Program Aplikasi ini dibangun menggunakan Framework Laravel. Sistem Absensi Sisw
 1. Multi Level dan Hak Akses
 2. Halaman Dashboard
 3. Menu Pengumuman
-4. Menu Absensi Guru dan siswa 
+4. Menu Absensi
+5. Menu Laporan Absen
 
 #### Info Lebih Lanjut
 WA : https://api.whatsapp.com/send?phone=6285641532396 <br>
