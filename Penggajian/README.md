@@ -1,7 +1,7 @@
 # Penggajian
 Dibuat : Azhar Ozhi Saputra <br>
 Download File : https://www.mediafire.com/file/dtmnj2aejw51ft6/penggajian.zip/file <br>
-Bahasa Pemrograman : Laravel 8
+Bahasa Pemrograman : PHP (Laravel)
 
 ### Deskripsi
 Pada kesempatan ini saya membuat aplikasi "Penggajian". Aplikasi ini tentunya sangat membantu bagi Bendahara toko, lembaga maupun perusahaan untuk mengurangi perhitungan secara cara manual yang biasanya ditulis melalui buku besar. Aplikasi ini pula sangat difungsikan sebagai pendataan data karyawan secara berkala.
